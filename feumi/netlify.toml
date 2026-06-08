@@ -5,7 +5,7 @@
 [build.environment]
   NODE_VERSION = "18"
 
-# Proxy API sang Railway — PHẢI đặt TRƯỚC rule /* 
+# Proxy API sang Railway — PHẢI đặt TRƯỚC rule /*
 [[redirects]]
   from = "/api/*"
   to = "https://test-production-6aac.up.railway.app/api/:splat"

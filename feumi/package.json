@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "author": "diephiepsi <diepminh20060911@gmail.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^6.2.5",
+    "@ant-design/pro-components": "^2.8.10",
+    "@tinymce/tinymce-react": "^6.3.0",
+    "antd": "^6.4.3",
+    "axios": "^1.16.1",
+    "rc-field-form": "^2.7.1",
+    "recharts": "^3.8.1",
+    "tinymce": "^8.5.1",
+    "umi": "^4.6.61"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}

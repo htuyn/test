@@ -19,6 +19,9 @@
     "tinymce": "^8.5.1",
     "umi": "^4.6.61"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
     "@types/react": "^18.0.33",
     "@types/react-dom": "^18.0.11",
